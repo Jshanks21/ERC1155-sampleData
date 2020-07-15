@@ -1,0 +1,17 @@
+{	
+	"token_data": [
+		{
+			"id": "0",
+			"name": "Angel Ascent",
+			"description": "A unique fractal art piece",
+			"image": "https://ipfs.io/ipfs/QmNeHgsWvoZHDjXJwH3uBev1M69GXGBHyHYZpjZxDkkGsr?filename=angelAscent.jpg",
+			"external_url": "https://luisegea.com"
+		},
+		{"id": "1",
+			"name": "Chaos",
+			"description": "A different unique fractal art piece",
+			"image": "https://ipfs.io/ipfs/QmV6M3xkuECMcSRiL8zNZYwYuA5zCqgjCYQyaN7pPUC7Bw?filename=Chaos.jpg",
+			"external_url": "https://luisegea.com"
+		}
+	]
+}
